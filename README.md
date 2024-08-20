@@ -1,5 +1,5 @@
 # bulkoramapmodder
-Convert multiple openra maps at once into a custom mod.<br/>
+Convert multiple [OpenRA](https://github.com/OpenRA/OpenRA) maps at once into a custom mod.<br/>
 Provided mod is BI 4.3.<br/>
 Default allows up to 1,000 maps at once.<br/>
 Line 45 to customize map title.<br/>
